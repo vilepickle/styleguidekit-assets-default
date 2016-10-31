@@ -125,7 +125,7 @@
   list-style: none;
 }
 .sg-header a {
-  font-size: 70%;
+  font-size: 90%;
   color: #fff;
   text-decoration: none;
   line-height: 1;
@@ -448,7 +448,7 @@
 * Tools dropdown button
 */
 .sg-tools-toggle {
-  font-size: 70%;
+  font-size: 90%;
   background: #000;
   color: #808080;
   text-decoration: none;
@@ -1169,7 +1169,7 @@
           transition: bottom 0.3s ease-out;
 }
 .sg-modal .sg-pattern-breadcrumb {
-  font-size: 70%;
+  font-size: 90%;
   color: #808080;
   margin-bottom: 0.5rem;
 }
