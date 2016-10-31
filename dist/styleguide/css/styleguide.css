@@ -210,6 +210,10 @@
   display: block;
 }
 
+.sg-nav-container .sg-nav li:first-child .sg-acc-panel li:last-child {
+  display: none !important;
+}
+
 /*------------------------------------*\
 #ACCORDION
 \*------------------------------------*/

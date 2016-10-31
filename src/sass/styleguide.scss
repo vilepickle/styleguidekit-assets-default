@@ -283,8 +283,10 @@ $sg-border-radius-med : 6px;
     }
 }
 
-
-
+// The View All atoms doesn't work with the Drupal install for some reason.
+.sg-nav-container .sg-nav li:first-child .sg-acc-panel li:last-child{
+    display: none !important;
+}
 
 
 /*------------------------------------*\
