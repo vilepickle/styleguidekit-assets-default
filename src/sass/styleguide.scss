@@ -84,7 +84,7 @@ $sg-space : 1em;
 $sg-doublespace : $sg-space*2;
 $sg-pad : 1em;
 $sg-pad-half : $sg-pad/2;
-$offset-top : 2em;
+$offset-top : 2.71em;
 
 // Breakpoints
 $sg-bp-small : 24em;
@@ -462,9 +462,9 @@ $sg-border-radius-med : 6px;
 * viewport size in px and em
 */
 .sg-current-size {
-    font-size: 70%;
+    font-size: 65%;
     color: $sg-gray;
-    padding: 0.85em 0.7em;
+    padding: 1.3em 0.7em;
 
     @media all and (min-width: $sg-bp-large) {
         float: left;
